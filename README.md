@@ -9,4 +9,4 @@ Just clone the repository and build the Swapfiets.sln
 | ---------             | -------                                             |
 | By City               | `/thefts?city=Amsterdam`      |
 | By Location           | `/thefts?location.lat=52.3676&location.lng=4.9041` |
-| By City with distance | `/thefts?city=Amsterdam&distance=20`      |
+| With distance | `/thefts?city=Amsterdam&distance=20`      |
